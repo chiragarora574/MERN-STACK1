@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+  /*  background-color:rgba(22, 223, 223, 0.877);*/
+    color:black;
+    width: 150px;
+    margin-left: 43%
+}
+
+.contain{
+    margin-left: 10%;
+    background-color: white;
+   /* margin-right : 15%;*/
+    margin-top: 0%;
+    font-size: x-large;
+    border-bottom: solid 5px black;
+    border: black 2px solid;
+    margin-top: 3%;
+    background-color:rgba(22, 223, 223, 0.877);
+    padding-left: 15%;
+    margin-right: 10%;
+}
+.s{
+    font-family: cursive;
+    width: 200px;
+
+}
