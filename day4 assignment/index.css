@@ -1,0 +1,28 @@
+
+.container{
+   display: flex;
+    flex-direction: row;
+   width: 1610px;
+  /* margin-top: 1.8%; */
+ margin-left: 50px;
+ margin-right: 10px;
+ /*padding-top: 2.1%;*/
+}
+body{
+    background-color: lightskyblue;
+}
+
+.a{
+    font-family: fantasy;
+    font-style: oblique;
+   letter-spacing: 1px;
+}
+
+h1{
+    text-align: center;
+    font-size: larger;
+    font-family: cursive;
+    
+    font-style: oblique;
+    font-size: 35px;
+}
